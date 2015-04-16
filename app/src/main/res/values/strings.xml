@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TestActionButton</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="pbIndeterminate">ProgressBars Indeterminate</string>
+    <string name="pbDeterminate">ProgressBar Determinate</string>
+    <string name="action_settings">Settings</string>
+</resources>
